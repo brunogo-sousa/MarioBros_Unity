@@ -1,6 +1,5 @@
 # MarioBros_Unity
-pt: Com base no jogo MarioBros da nintendo, eu criei algumas mecânicas em intuito propagar meu conhecimento em unity e c# a traveis de algoritmos simples seguindo boas praticas de progração de software.
-Todos os direitos reservados a nintendo.Imagens e o código deve ser utilizado somente para intuito educacional e de aprendizagem.
+pt: Com base no jogo MarioBros da nintendo, eu recriei algumas mecânicas em intuito propagar meu conhecimento em unity e c# para outras pessoas a traveis de algoritmos simples ,seguindo boas praticas de programação de software...
 
 eng: Based on Nintendo's MarioBros game, I created some mechanics in order to spread my knowledge in unity and C # using simple algorithms following good software programming practices.
 All rights reserved to nintendo. Images and the code should be used only for educational and learning purposes.
